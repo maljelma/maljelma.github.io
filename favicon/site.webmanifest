@@ -1,7 +1,7 @@
 {
-    "name": "MAljelma",
-    "short_name": "",
-    "start_url": ".",
+    "name": "Mohammad Aljelmawi",
+    "short_name": "MAljelma",
+    "start_url": "../",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#fefefe",
