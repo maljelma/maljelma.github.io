@@ -1,0 +1,32 @@
+:root{
+    --highlight-color:#ff0b;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.banner {
+    width: 100vw;
+    background-color: #0f04;
+    padding: 1rem;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ff0b;
+}
+
+.banner span {
+    background-color: var(--highlight-color);
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        --highlight-color:#0afb;
+        background-color: #121212;
+        color: #ffffff;
+    }
+}
