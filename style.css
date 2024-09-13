@@ -13,7 +13,7 @@ body {
 
 .banner {
     width: 100vw;
-    background-color: #0f04;
+    background-color: #8DA;
     padding: 1rem;
     box-sizing: border-box;
     border-bottom: 1px solid #ff0b;
@@ -25,8 +25,8 @@ body {
 
 @media (prefers-color-scheme: dark) {
     body {
-        --highlight-color:#0afb;
+        --highlight-color:rgba(86, 168, 210, 0.733);
         background-color: #121212;
-        color: #ffffff;
+        color: #97680b;
     }
 }
